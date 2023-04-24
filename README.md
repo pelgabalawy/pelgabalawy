@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/peter-elgabalawy-85a40a147#gh-light-mode-only)
+[<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/peter-elgabalawy-85a40a147)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
