@@ -1,10 +1,11 @@
 # Hi there, I'm Peter Elgabalawy 👋
 
-## I'm a Husband, New Father 👧, and Developer
+## I'm a Husband, Father 👧, and Developer
 
 - 🏢 Currently working as a QA Automation Engineer Lead
 - 🥅 2023 Goals: Be the best father I can be and learn more and master web dev
-- ⚡ Fun fact: If I had the time I would game all day
+- 🛺 Automating processes and learning algorithms are my kind of fun
+- 🎮 I play video games in my free time
 
 ### Connect with me:
 
